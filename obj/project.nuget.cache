@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IA1AVEz+zI=",
+  "success": true,
+  "projectFilePath": "/Users/dags0n/projects/todo-list/TodoApi/TodoApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/dags0n/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/10.0.1/microsoft.aspnetcore.diagnostics.entityframeworkcore.10.0.1.nupkg.sha512",
+    "/Users/dags0n/.nuget/packages/microsoft.aspnetcore.openapi/10.0.1/microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "/Users/dags0n/.nuget/packages/microsoft.entityframeworkcore/10.0.1/microsoft.entityframeworkcore.10.0.1.nupkg.sha512",
+    "/Users/dags0n/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.1/microsoft.entityframeworkcore.abstractions.10.0.1.nupkg.sha512",
+    "/Users/dags0n/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.1/microsoft.entityframeworkcore.analyzers.10.0.1.nupkg.sha512",
+    "/Users/dags0n/.nuget/packages/microsoft.entityframeworkcore.inmemory/10.0.1/microsoft.entityframeworkcore.inmemory.10.0.1.nupkg.sha512",
+    "/Users/dags0n/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.1/microsoft.entityframeworkcore.relational.10.0.1.nupkg.sha512",
+    "/Users/dags0n/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
